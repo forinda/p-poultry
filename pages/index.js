@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h1>Hello team 2</h1>
+      <h1>Hello team</h1>
       </main>
 
       <footer className={styles.footer}>
